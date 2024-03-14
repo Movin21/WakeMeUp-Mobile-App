@@ -1,0 +1,26 @@
+<resources>
+    <string name="app_name">WakeMeUp</string>
+    <string name="SignInText">Sign In</string>
+    <string name="hnt_email_signUp">Enter your Email</string>
+    <string name="hnt_psw_signUp">Enter your Password</string>
+    <string name="SignUpText">Sign Up</string>
+    <string name="signup_form_name">Name</string>
+    <string name="signup_form_email">Email</string>
+    <string name="signup_form_psw">Password</string>
+    <string name="signup_form_bio">Bio</string>
+    <string name="profile">Profile</string>
+    <string name="profile_name">Name:</string>
+    <string name="profile_email">Email:</string>
+    <string name="profile_bio">Bio:</string>
+    <string name="btn_create">Create Alarm</string>
+    <string name="btn_delete">Delete Profile</string>
+    <string name="google_map_api_key">AIzaSyD-v327RRVZySPUiCCoGGitHNGTP53PimQ</string>
+    <string name="Saved_Alarms">Saved Alarms:</string>
+    <string name="Saved_Alarm1">Alarm 1</string>
+    <string name="Saved_Alarm2">Alarm 2</string>
+    <string name="Saved_Alarm3">Alarm 3</string>
+    <string name="Saved_Alarm4">Alarm 4</string>
+    <string name="Wlcm_Head"> Welcome</string>
+    <string name="stup_acc">First Setup Your Account</string>
+    <string name="stup_acc2">Simply Turn On Alarm</string>
+</resources>
